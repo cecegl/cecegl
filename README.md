@@ -2,8 +2,8 @@
 
 - 💖 My main interests are **plants**, **biogeography** and **socioecology**
   
-- 💻 I’m currently working on **Antarctic species distribution models!**
+- 💻 I’m currently working on **niche marginalization**
   
-- 🌱 I’m currently learning about **coding** and **spatial modeling**
+- 🌱 I’m currently learning about **dynamic SDMs**
 
-- 📫 How to reach me: *cece.glop@gmail.com*
+- 📫 How to reach me: *celia.gonzalez@mncn.csic.es*
