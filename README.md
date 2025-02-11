@@ -2,7 +2,7 @@
 
 - 💖 My main interests are **plants**, **biogeography**, **socioecology** and **species distribution models**
   
-- 💻 I’m currently working on **antartic SDMs**
+- 💻 I’m currently working on **antarctic SDMs**
   
 - 🌱 I’m currently learning about **niche analysis**
 
