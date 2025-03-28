@@ -1,9 +1,7 @@
 # About me 🙋‍♀️
 
-- 💖 My main interests are **plants**, **biogeography**, **socioecology** and **species distribution models**
+- 💖 My main interests are **plant community ecology**, **biogeography**, **socioecology** and **species distribution models**
   
-- 💻 I’m currently working on **antarctic SDMs**
-  
-- 🌱 I’m currently learning about **niche analysis**
+- 💻 I’m currently on my first year as a *PhD student* learning about **tropical altitudinal gradients** and **plant biogeography**
 
-- 📫 How to reach me: *celia.gonzalez@mncn.csic.es*
+- 📫 You can reach me at: *celia.gonzalez@mncn.csic.es*
